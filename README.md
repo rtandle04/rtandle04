@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Ramakanth Tandle working as a full stack developer in IBM, I have 5.5 Years of experience.
+
+Skills:- Core java, C++, Python, Java script, Type Script, Python, AWS, GCP.
+
+Education Qualification :- MCA and BSC MatheMatics
+
 <!--
 **rtandle04/rtandle04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
