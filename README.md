@@ -2,7 +2,7 @@
 
 My name is Ramakanth Tandle working as a full stack developer in IBM, I have 5.5 Years of experience.
 
-Skills:- Core java, C++, Python, Java script, Type Script, Python, AWS, GCP.
+Skills:- Core java, C++, Python, Java script, Type Script, Angular, HTML, Python, AWS, GCP.
 
 Education Qualification :- MCA and BSC MatheMatics
 
